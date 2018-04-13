@@ -9,7 +9,7 @@ class ChattyStudent < Student
 
     super
     10.times do
-    print "Pick me!"
+    puts "Pick me!"
 
 
     end
