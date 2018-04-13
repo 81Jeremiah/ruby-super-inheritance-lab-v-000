@@ -10,8 +10,8 @@ class ChattyStudent < Student
     super
 
     print "Pick me!"
-    
-  
+
+
     end
   end
 end
